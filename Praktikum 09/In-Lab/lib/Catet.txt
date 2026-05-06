@@ -1,0 +1,7 @@
+Anabul          : Kelas abstrak dasar hewan peliharaan
+Kucing          : Anak dari anabul, bedanya ada atribut ras
+Anjing          : Anak dari anabul, ditambah ras juga
+KucingPersia    : Cucu dari anabul, anak kucing, tambahin warna rambut
+AnjingHerder    : Cucu dari anabul, anak anjing, tambahin warna bulu
+Teman           : Koleksi ( List<string> )
+Piaraan         : Koleksi ( Queue<Anabul> )
