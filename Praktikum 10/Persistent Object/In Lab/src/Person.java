@@ -1,3 +1,8 @@
+/**
+ * File : Person.java
+ * Deskripsi : Person database model
+ */
+
 public class Person {
     private int id;
     private String name;

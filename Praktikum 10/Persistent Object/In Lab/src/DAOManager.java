@@ -1,3 +1,8 @@
+/**
+ * File : DAOManager.java
+ * Deskripsi : pengelola DAO dalam program
+ */
+
 public class DAOManager {
     private PersonDAO personDAO;
 
